@@ -1,0 +1,18 @@
+The size of type char is: 1
+The size of type int is: 4
+The size of type short int is: 2
+The size of type long is: 4
+The size of type float is: 4
+The size of type double is: 8
+The size of type long double is: 8
+The size of type size_t is: 4
+The size of type wchar_t is: 2
+The size of type unsigned char is: 1
+The size of type unsigned int is: 4
+The size of type unsigned short int is: 2
+The size of type unsigned long is: 4
+The last positive value is: 32767
+The last positive value is: 32767
+The last positive value is: 65535
+The last positive value is: 65535
+The last positive value is: -25536
